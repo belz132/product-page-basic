@@ -52,7 +52,7 @@
   /* We can add custom styles here if needed, or rely on Bootstrap classes */
   .btn.disabled {
     pointer-events: none;
-    opacity: 0.65;
+    opacity: 0.50;
   }
   </style>
   
