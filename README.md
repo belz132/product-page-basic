@@ -21,14 +21,14 @@ Components
 
 Hierarchy
 
-> HomePage.vue
-    > MainTemplate.vue
-    > ProductList.vue
-        > ProductItem.vue
-            > Button.vue
-    > ShoppingCart.vue
-        > ShoppingCartItem.vue
-            > Button.vue
+1. HomePage.vue
+   a. MainTemplate.vue
+   b. ProductList.vue
+        b.1. ProductItem.vue
+            b.1.1. Button.vue
+   c. ShoppingCart.vue
+        c.1. ShoppingCartItem.vue
+            c.1.1. Button.vue
 
 Features/ Functionalities
 
